@@ -1,5 +1,9 @@
 # License Plate Recognition using CNN
 
+## Contributors:
+
+⚜️ [Shubham Bhalala](https://www.linkedin.com/in/shubhambhalala/) ⚜️ [Tirth Patel](https://www.linkedin.com/in/tirupatel/) ⚜️ [Harsh Modi](https://www.linkedin.com/in/harshkumar-modi-50a676158/) ⚜️ [Shashwat Misra](https://www.linkedin.com/in/shashwat-misra-07802814b/) ⚜️ [Shashwat Gaur](https://www.linkedin.com/in/shashwat-gaur-a0060516b/)
+
 To achieve this task, let's understand the architecture. We need to recognise the license plate, here specifically Indian, all the contries have different type of license plate character and shape of plate.
 So, overall we need to detect the number plate first, then recognise the characters. We also have one more bifurcation in this i.e. all the vehicle have different shape and size of number plate.
 In this task, we are focusing only for car, and any number plate which is of the shape and size of car's number plate in India. Once, we have the plate recognised we have to recognise the characters of the plate.
